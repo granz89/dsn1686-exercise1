@@ -1,0 +1,21 @@
+body {
+	font-family: "open sans";
+	text-align: center;
+	background-color: #ffffff;
+}
+
+.no {
+	font-size: 5em;
+	background-color: #3f6276;
+	color: #ffffff;
+	padding: 8rem 0;
+	margin: -1rem -1rem 0 -1rem;
+}
+
+.no1 {
+	font-size: 4em;
+	background-color: #ffffff;
+	color: #3f6276;
+	padding: 7rem 0;
+}
+

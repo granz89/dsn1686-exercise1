@@ -1,0 +1,21 @@
+body {
+	font-family: "open sans";
+	text-align: center;
+	background-color: #3f6276;
+}
+
+.yes {
+	font-size: 4em;
+	background-color: #3f6276;
+	color: #ffffff;
+	padding: 6rem 0
+}
+
+.yes1 {
+	font-size: 5em;
+	background-color: #ffffff;
+	color: #3f6276;
+	padding: 8rem 0;
+	margin-top: -1rem;
+}
+
